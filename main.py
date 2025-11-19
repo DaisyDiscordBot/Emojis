@@ -1,3 +1,10 @@
+"""
+Daisy Emojis - Discord Application Emoji Manager
+
+Copyright (c) 2025 neoarz (DaisyDiscordBot)
+All Rights Reserved. See LICENSE file for details.
+"""
+
 import os
 import requests
 import sys
