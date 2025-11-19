@@ -1,5 +1,4 @@
 Discord Application Emoji Codes
-Use these codes in Discord to use your emojis
 Total emojis: 65
 ============================================================
 
@@ -69,4 +68,4 @@ silver                         <:silver:1440584113928142859>
 supportscommands               <:supportscommands:1440585263351988224>
 username                       <:username:1440583371670421526>
 
-Last updated on: 2025-11-19 01:47:57 EST
+Last updated on: 2025-11-19 01:50:13 EST
