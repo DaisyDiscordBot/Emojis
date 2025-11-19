@@ -152,7 +152,6 @@ def find_all_emoji_files(emoji_folder):
 def write_emoji_codes(emojis_dict, local_files):
     with open(EMOJI_CODES_FILE, 'w', encoding='utf-8') as f:
         f.write("Discord Application Emoji Codes\n")
-        f.write("Use these codes in Discord to use your emojis\n")
         f.write(f"Total emojis: {len(emojis_dict)}\n")
         f.write("="*60 + "\n\n")
         
