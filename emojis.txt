@@ -1,5 +1,5 @@
 Discord Application Emoji Codes
-Total emojis: 65
+Total emojis: 70
 ============================================================
 
 activedeveloper                <:activedeveloper:1440585292557058140>
@@ -22,6 +22,7 @@ discordearlysupporter          <:discordearlysupporter:1440585306540871682>
 discordpartner                 <:discordpartner:1440585277977526302>
 discordstaff                   <:discordstaff:1440585270532640798>
 emerald                        <:emerald:1440584085922779266>
+gaming                         <:gaming:1441213636453601372>
 gold                           <:gold:1440584128612532244>
 guild1                         <:guild1:1440585439907155978>
 guild10                        <:guild10:1440585410739962011>
@@ -58,6 +59,9 @@ hypesquadbalance               <:hypesquadbalance:1440585336697913346>
 hypesquadbravery               <:hypesquadbravery:1440585344218042500>
 hypesquadbrilliance            <:hypesquadbrilliance:1440585329848357015>
 hypesquadevents                <:hypesquadevents:1440585322529554433>
+loading1                       <a:loading1:1441213660574781614>
+loading2                       <a:loading2:1441213668883959830>
+music                          <:music:1441213652744147045>
 opal                           <:opal:1440584107087102024>
 orb                            <:orb:1440585256083128320>
 platinum                       <:platinum:1440584135591596083>
@@ -67,5 +71,6 @@ ruby                           <:ruby:1440584092893577251>
 silver                         <:silver:1440584113928142859>
 supportscommands               <:supportscommands:1440585263351988224>
 username                       <:username:1440583371670421526>
+watching                       <:watching:1441213644867244133>
 
-Last updated on: 2025-11-19 01:50:13 EST
+Last updated on: 2025-11-20 18:48:36 EST
