@@ -1,9 +1,10 @@
 Discord Application Emoji Codes
-Total emojis: 70
+Total emojis: 71
 ============================================================
 
 activedeveloper                <:activedeveloper:1440585292557058140>
 automod                        <:automod:1440585285179277393>
+bomb                           <:bomb:1441259445576536266>
 bronze                         <:bronze:1440584100078419978>
 diamond                        <:diamond:1440584121012453409>
 discordboost1                  <:discordboost1:1440585648045297724>
@@ -73,4 +74,4 @@ supportscommands               <:supportscommands:1440585263351988224>
 username                       <:username:1440583371670421526>
 watching                       <:watching:1441213644867244133>
 
-Last updated on: 2025-11-20 18:48:36 EST
+Last updated on: 2025-11-20 21:50:30 EST
