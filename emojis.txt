@@ -1,5 +1,5 @@
 Discord Application Emoji Codes
-Total emojis: 71
+Total emojis: 72
 ============================================================
 
 activedeveloper                <:activedeveloper:1440585292557058140>
@@ -68,10 +68,11 @@ orb                            <:orb:1440585256083128320>
 platinum                       <:platinum:1440584135591596083>
 premiumbot                     <:premiumbot:1440583371154526228>
 quest                          <:quest:1440583367576911883>
+refresh                        <:refresh:1441276839388778557>
 ruby                           <:ruby:1440584092893577251>
 silver                         <:silver:1440584113928142859>
 supportscommands               <:supportscommands:1440585263351988224>
 username                       <:username:1440583371670421526>
 watching                       <:watching:1441213644867244133>
 
-Last updated on: 2025-11-20 21:50:30 EST
+Last updated on: 2025-11-20 22:59:37 EST
