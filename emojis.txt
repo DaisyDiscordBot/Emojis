@@ -1,11 +1,13 @@
 Discord Application Emoji Codes
-Total emojis: 72
+Total emojis: 75
 ============================================================
 
 activedeveloper                <:activedeveloper:1440585292557058140>
 automod                        <:automod:1440585285179277393>
 bomb                           <:bomb:1441259445576536266>
 bronze                         <:bronze:1440584100078419978>
+daisy                          <:daisy:1441617904302030968>
+daisyround                     <:daisyround:1441617897129512983>
 diamond                        <:diamond:1440584121012453409>
 discordboost1                  <:discordboost1:1440585648045297724>
 discordboost2                  <:discordboost2:1440585632807387158>
@@ -62,6 +64,7 @@ hypesquadbrilliance            <:hypesquadbrilliance:1440585329848357015>
 hypesquadevents                <:hypesquadevents:1440585322529554433>
 loading1                       <a:loading1:1441213660574781614>
 loading2                       <a:loading2:1441213668883959830>
+mail                           <:mail:1441617911478227077>
 music                          <:music:1441213652744147045>
 opal                           <:opal:1440584107087102024>
 orb                            <:orb:1440585256083128320>
@@ -75,4 +78,4 @@ supportscommands               <:supportscommands:1440585263351988224>
 username                       <:username:1440583371670421526>
 watching                       <:watching:1441213644867244133>
 
-Last updated on: 2025-11-20 22:59:37 EST
+Last updated on: 2025-11-21 21:34:55 EST
